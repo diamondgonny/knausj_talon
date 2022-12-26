@@ -6,11 +6,11 @@ alfred:
 
 
 hidden bar:
-    key(ctrl-alt-z)
+    key(ctrl-alt-x)
 
 # /w finish
 (Corin | Korean):
-    key(ctrl-alt-x)
+    key(ctrl-alt-z)
     speech.disable()
 
 fantastical:
