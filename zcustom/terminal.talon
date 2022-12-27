@@ -1,0 +1,2 @@
+cindy: "cd "
+lucy: "ls "
