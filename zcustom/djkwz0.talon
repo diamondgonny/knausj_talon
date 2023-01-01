@@ -1,4 +1,4 @@
-day: key(d)
+(drug | day): key(d)
 (ja | jay): key(j)
 (ka | kay): key(k)
 wine: key(w)
