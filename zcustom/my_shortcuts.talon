@@ -1,9 +1,5 @@
-(drop zone | drop some):
-    key(cmd-ctrl-')
-
 alfred:
     key(cmd-alt-space)
-
 
 hidden bar:
     key(ctrl-alt-x)
